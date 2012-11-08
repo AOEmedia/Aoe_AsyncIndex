@@ -5,4 +5,19 @@
 			<version>0.0.1</version>
 		</Aoe_AsyncIndex>
 	</modules>
+
+	<global>
+		<models>
+			<aoe_asyncindex>
+				<class>Aoe_AsyncIndex_Model</class>
+			</aoe_asyncindex>
+
+			<index>
+				<rewrite>
+					<process>Aoe_AsyncIndex_Model_Process</process>
+				</rewrite>
+			</index>
+		</models>
+	</global>
+
 </config>
