@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<modules>
+		<Aoe_AsyncIndex>
+			<version>0.0.1</version>
+		</Aoe_AsyncIndex>
+	</modules>
+</config>
