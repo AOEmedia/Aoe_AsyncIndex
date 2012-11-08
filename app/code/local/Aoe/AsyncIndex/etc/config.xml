@@ -15,6 +15,7 @@
 			<index>
 				<rewrite>
 					<process>Aoe_AsyncIndex_Model_Process</process>
+					<event>Aoe_AsyncIndex_Model_Event</event>
 				</rewrite>
 			</index>
 		</models>
